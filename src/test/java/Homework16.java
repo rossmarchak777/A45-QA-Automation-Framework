@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -27,4 +28,14 @@ public class Homework16 extends BaseTest {
         Assert.assertTrue(userAvatar.isDisplayed()); //?
 
     }
+=======
+import org.testng.annotations.Test;
+
+@Test
+public class Homework16 {
+    registrationNavigation() {
+
+    }
+
+>>>>>>> Stashed changes
 }
